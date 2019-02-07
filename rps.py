@@ -1,7 +1,6 @@
 import random, time
-from tkinter import *
 
-class gamemain():
+class gamemain:
     rps_dict = {'1':'rock','2':'paper','3':'scissors'}
     score = 0
     turns = 0
